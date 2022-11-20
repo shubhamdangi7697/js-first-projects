@@ -1,0 +1,29 @@
+body{
+    height: 90vh;
+    background: rgb(129, 22, 237);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: azure;
+}
+.container h1{
+    margin-bottom: 10px;
+}
+button{
+display: inline-block;
+background: rgb(8, 55, 225);
+color: aliceblue;
+font-size: 16px;
+font-weight: normal;
+text-align: center;
+border-radius: 3px;
+text-decoration: none;
+padding: 10px;
+z-index: 100000;
+
+
+}
+img{
+    width: 350px;
+}
